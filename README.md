@@ -1,6 +1,4 @@
-PREVIEW
-MARKDOWN
-COPY
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Onkar
 =============================================================================================================================
 
@@ -29,6 +27,7 @@ I am pursuing 4th year of my bachelor's in engineering with a specialization in 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/VyavahareOnkar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/onkar-vyavahare-7a42ba1a5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Onkarvyavahare3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
