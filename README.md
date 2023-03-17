@@ -3,7 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================
 
 
-https://github-profile-trophy.vercel.app/?username=VyavahareOnkar&row=2
 
 < Web Developer , CS Student at SGGSIE&T />
 -------------------------------------------
