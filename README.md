@@ -11,8 +11,8 @@ I am pursuing 4th year of my bachelor's in engineering with a specialization in 
 
 * 🌍  I'm based in Pandharpur , Maharashtra , India.
 * ✉️  You can contact me at [onkarvyavahare2001@gmail.com](mailto:onkarvyavahare2001@gmail.com)
-* 🧠  I'm learning React and Nodejs
-* 🤝  I'm open to collaborating on React Development
+* 🧠  I'm full stack developer
+* 🤝  I'm open to collaborating on MERN stack Development
 
 ### Skills
 
